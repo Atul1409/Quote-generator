@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #ffb300;
+}
+
+#quotebox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: kalam;
+    width: 60%;
+    height: 200px;
+    padding: 3em;
+    font-weight: bolder;
+    font-size: 2em;
+    background-color:#ff8f00 ;
+}
+button{
+    border: none;
+    padding: 1em;
+    background-color: #ffb300;
+    font-family: kalam;
+    font-weight: bolder;
+}
