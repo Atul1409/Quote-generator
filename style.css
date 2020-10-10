@@ -13,10 +13,10 @@ body{
     flex-direction: column;
     font-family: kalam;
     width: 60%;
-    height: 200px;
+    height: auto;
     padding: 3em;
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 1.5em;
     background-color:#ff8f00 ;
 }
 button{
